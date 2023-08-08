@@ -1,4 +1,4 @@
-# Cognitive-XAI
+# Cognitive Behavioral AI
 
 We aim to understand the medical deep denoisers with a cognitive approach.
 
